@@ -1,4 +1,4 @@
-module github.com/go-jet/jet/v2
+module github.com/realrunner/jet
 
 go 1.18
 
